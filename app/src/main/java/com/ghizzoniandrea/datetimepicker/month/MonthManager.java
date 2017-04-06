@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.month;
+package com.ghizzoniandrea.datetimepicker.month;
 
 import android.content.Context;
 
@@ -7,7 +7,7 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class MonthManager {
     private static List<Month> sMonthList;

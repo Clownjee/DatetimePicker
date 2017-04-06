@@ -1,7 +1,7 @@
-package com.clownjee.datetimepicker.month;
+package com.ghizzoniandrea.datetimepicker.month;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class Month {
 

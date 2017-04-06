@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker;
+package com.ghizzoniandrea.datetimepicker;
 
 import android.animation.ObjectAnimator;
 import android.graphics.Color;
@@ -18,12 +18,12 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.clownjee.datetimepicker.month.MonthLayout;
-import com.clownjee.datetimepicker.utils.DeviceUtil;
-import com.clownjee.datetimepicker.utils.RotateUtil;
-import com.clownjee.datetimepicker.wheelview.ScreenInfo;
-import com.clownjee.datetimepicker.wheelview.WheelMain;
-import com.clownjee.datetimepicker.year.YearLayout;
+import com.ghizzoniandrea.datetimepicker.month.MonthLayout;
+import com.ghizzoniandrea.datetimepicker.utils.DeviceUtil;
+import com.ghizzoniandrea.datetimepicker.utils.RotateUtil;
+import com.ghizzoniandrea.datetimepicker.wheelview.ScreenInfo;
+import com.ghizzoniandrea.datetimepicker.wheelview.WheelMain;
+import com.ghizzoniandrea.datetimepicker.year.YearLayout;
 import com.jakewharton.rxbinding.view.RxView;
 
 import java.util.Calendar;
@@ -32,7 +32,7 @@ import java.util.concurrent.TimeUnit;
 import rx.functions.Action1;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class MainActivity extends AppCompatActivity {
 

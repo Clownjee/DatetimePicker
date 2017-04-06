@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.month;
+package com.ghizzoniandrea.datetimepicker.month;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -17,7 +17,7 @@ import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.clownjee.datetimepicker.R;
+import com.ghizzoniandrea.datetimepicker.R;
 
 import net.lucode.hackware.magicindicator.MagicIndicator;
 import net.lucode.hackware.magicindicator.ViewPagerHelper;
@@ -38,7 +38,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class MonthLayout extends RelativeLayout {
 

@@ -87,31 +87,31 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                <com.clownjee.datetimepicker.wheelview.WheelView
+                <com.ghizzoniandrea.datetimepicker.wheelview.WheelView
                     android:id="@+id/year"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"/>
 
-                <com.clownjee.datetimepicker.wheelview.WheelView
+                <com.ghizzoniandrea.datetimepicker.wheelview.WheelView
                     android:id="@+id/month"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"/>
 
-                <com.clownjee.datetimepicker.wheelview.WheelView
+                <com.ghizzoniandrea.datetimepicker.wheelview.WheelView
                     android:id="@+id/day"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"/>
 
-                <com.clownjee.datetimepicker.wheelview.WheelView
+                <com.ghizzoniandrea.datetimepicker.wheelview.WheelView
                     android:id="@+id/hour"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"/>
 
-                <com.clownjee.datetimepicker.wheelview.WheelView
+                <com.ghizzoniandrea.datetimepicker.wheelview.WheelView
                     android:id="@+id/min"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -136,14 +136,14 @@
 
         </LinearLayout>
 
-        <com.clownjee.datetimepicker.month.MonthLayout
+        <com.ghizzoniandrea.datetimepicker.month.MonthLayout
             android:id="@+id/month_panel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/x_bg"
             android:visibility="gone"/>
 
-        <com.clownjee.datetimepicker.year.YearLayout
+        <com.ghizzoniandrea.datetimepicker.year.YearLayout
             android:id="@+id/year_panel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

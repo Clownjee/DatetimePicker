@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.year;
+package com.ghizzoniandrea.datetimepicker.year;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;
@@ -13,7 +13,7 @@ import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.clownjee.datetimepicker.R;
+import com.ghizzoniandrea.datetimepicker.R;
 
 import net.lucode.hackware.magicindicator.MagicIndicator;
 
@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class YearLayout extends RelativeLayout {
 

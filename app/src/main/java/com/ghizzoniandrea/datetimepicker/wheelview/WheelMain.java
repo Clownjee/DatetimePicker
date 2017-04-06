@@ -1,8 +1,8 @@
-package com.clownjee.datetimepicker.wheelview;
+package com.ghizzoniandrea.datetimepicker.wheelview;
 
 import android.view.View;
 
-import com.clownjee.datetimepicker.R;
+import com.ghizzoniandrea.datetimepicker.R;
 
 import java.util.Arrays;
 import java.util.List;

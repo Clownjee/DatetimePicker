@@ -1,11 +1,11 @@
-package com.clownjee.datetimepicker.month;
+package com.ghizzoniandrea.datetimepicker.month;
 
 import android.content.Context;
 
 import net.lucode.hackware.magicindicator.buildins.commonnavigator.titles.SimplePagerTitleView;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class ColorFlipPagerTitleView extends SimplePagerTitleView {
     private float mChangePercent = 0.5f;

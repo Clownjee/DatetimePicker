@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-package com.clownjee.datetimepicker.wheelview;
+package com.ghizzoniandrea.datetimepicker.wheelview;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -39,7 +39,7 @@ import android.view.View;
 import android.view.animation.Interpolator;
 import android.widget.Scroller;
 
-import com.clownjee.datetimepicker.R;
+import com.ghizzoniandrea.datetimepicker.R;
 
 import java.util.LinkedList;
 import java.util.List;

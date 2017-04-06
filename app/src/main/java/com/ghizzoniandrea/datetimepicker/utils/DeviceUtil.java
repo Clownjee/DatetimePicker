@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.utils;
+package com.ghizzoniandrea.datetimepicker.utils;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class DeviceUtil {
 

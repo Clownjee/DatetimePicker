@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.month;
+package com.ghizzoniandrea.datetimepicker.month;
 
 import android.content.Context;
 import android.view.Gravity;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class MonthGridAdapter extends BaseAdapter {
 

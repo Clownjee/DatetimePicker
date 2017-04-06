@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.year;
+package com.ghizzoniandrea.datetimepicker.year;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class YearGridAdapter extends BaseAdapter {
 

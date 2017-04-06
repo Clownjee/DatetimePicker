@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.wheelview;
+package com.ghizzoniandrea.datetimepicker.wheelview;
 
 import android.app.Activity;
 import android.util.DisplayMetrics;

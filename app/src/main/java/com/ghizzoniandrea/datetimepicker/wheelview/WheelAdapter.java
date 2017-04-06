@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.clownjee.datetimepicker.wheelview;
+package com.ghizzoniandrea.datetimepicker.wheelview;
 
 public interface WheelAdapter {
     /**

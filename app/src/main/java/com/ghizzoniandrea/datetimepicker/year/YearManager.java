@@ -1,4 +1,4 @@
-package com.clownjee.datetimepicker.year;
+package com.ghizzoniandrea.datetimepicker.year;
 
 import android.content.Context;
 
@@ -7,7 +7,7 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/1/26.
+ * Created by ghizzoniandrea on 2017/1/26.
  */
 public class YearManager {
     private static List<Year> sYearList;
